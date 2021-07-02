@@ -13,4 +13,4 @@
     
     output look like:
     
-    ![MFC APP DEMO](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+    ![MFC APP DEMO](https://github.com/tejaanuchuri/create-MFC-Application-using-mfc-app-template/blob/master/Screenshot%20(48).png?raw=true)
